@@ -1,8 +1,10 @@
-/* *{border: solid 1px red} */
-
+body {
+    background:url('https://raw.githubusercontent.com/stopdaydreaming/super-duper-octo-portfolio/main/assets/images/ignasi_pattern_s.png')
+}
 header {
     padding: 2em;
 }
+
 .heading {
     font-size: 3.25rem;
     line-height: 2.75rem;
