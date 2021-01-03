@@ -49,9 +49,9 @@ None at this time
 None at this time
 
 ## Badges
-![badmath](https://img.shields.io/github/issues/stopdaydreaming/super-duper-octo-portfolio)  
-![badmath](https://img.shields.io/github/forks/stopdaydreaming/super-duper-octo-portfolio)  
-![badmath](https://img.shields.io/github/stars/stopdaydreaming/super-duper-octo-portfolio)  
+![badmath](https://img.shields.io/github/issues/stopdaydreaming/super-duper-octo-portfolio-v2)  
+![badmath](https://img.shields.io/github/forks/stopdaydreaming/super-duper-octo-portfolio-v2)  
+![badmath](https://img.shields.io/github/stars/stopdaydreaming/super-duper-octo-portfolio-v2)  
 ![badmath](https://img.shields.io/badge/license-MIT-green)  
 ![badmath](https://img.shields.io/badge/HTML-90.7%25-green)  
 ![badmath](https://img.shields.io/badge/CSS-9.3%25-blue)  
