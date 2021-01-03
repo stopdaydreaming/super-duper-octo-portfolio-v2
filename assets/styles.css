@@ -1,3 +1,4 @@
+/* elements */
 body {
     background:url('https://raw.githubusercontent.com/stopdaydreaming/super-duper-octo-portfolio/main/assets/images/ignasi_pattern_s.png')
 }
@@ -5,6 +6,7 @@ header {
     padding: 2em;
 }
 
+/* classes */
 .heading {
     font-size: 3.25rem;
     line-height: 2.75rem;
@@ -18,4 +20,22 @@ header {
 }
 .fa-icons {
     margin-right: 1em;
+}
+
+/* media queries */
+@media only screen and (max-width: 455px) {
+    .crop {
+        width: 100%;
+    }
+    .heading {
+        font-size: 2.5rem;
+    }
+}
+@media only screen and (max-width: 265px) {
+    .crop {
+        width: 100%;
+    }
+    .heading {
+        font-size: 2rem;
+    }
 }
